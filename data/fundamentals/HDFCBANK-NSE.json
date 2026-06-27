@@ -1,0 +1,315 @@
+{
+  "doc_id": "HDFCBANK-NSE",
+  "schema_version": 1,
+  "identity": {
+    "symbol": "HDFCBANK",
+    "exchange": "NSE",
+    "isin": "INE040A01034",
+    "name": "HDFC Bank Ltd",
+    "sector": "Financial Services",
+    "industry": "Private Sector Bank",
+    "sector_kind": "bank",
+    "sector_classification": {
+      "kind": "bank",
+      "method": "taxonomy",
+      "confidence": 1
+    },
+    "shares_outstanding": 7600000000,
+    "face_value": 1
+  },
+  "valuation": {
+    "ttm_eps": 89.2,
+    "ttm_eps_basic": null,
+    "ttm_eps_is_annual_derived": false,
+    "ttm_eps_basis": "consolidated",
+    "book_value_per_share": 620
+  },
+  "results": {
+    "quarterly": [
+      {
+        "period_end": "2025-03-31",
+        "period_label": "Q4 FY25",
+        "fiscal_quarter": "Q4",
+        "basis": "consolidated",
+        "is_audited": true,
+        "is_restated": false,
+        "core": {
+          "revenue_equiv": 87500,
+          "operating_profit_equiv": 36750,
+          "margin_equiv_pct": 3.5,
+          "margin_kind": "nim",
+          "other_income": null,
+          "interest": null,
+          "depreciation": null,
+          "pbt": null,
+          "tax": null,
+          "net_profit": 15435,
+          "eps": 20.31
+        },
+        "sector": {
+          "kind": "bank",
+          "data": {
+            "total_income": 98000,
+            "interest_earned": 87500,
+            "interest_expended": 50750,
+            "net_interest_income": 36750,
+            "nim_pct": 3.5,
+            "gross_npa_pct": 1.19,
+            "net_npa_pct": 0.38,
+            "provisions_and_contingencies": 3675
+          }
+        }
+      },
+      {
+        "period_end": "2024-12-31",
+        "period_label": "Q3 FY25",
+        "fiscal_quarter": "Q3",
+        "basis": "consolidated",
+        "is_audited": false,
+        "is_restated": false,
+        "core": {
+          "revenue_equiv": 85000,
+          "operating_profit_equiv": 35700,
+          "margin_equiv_pct": 3.5,
+          "margin_kind": "nim",
+          "other_income": null,
+          "interest": null,
+          "depreciation": null,
+          "pbt": null,
+          "tax": null,
+          "net_profit": 14994,
+          "eps": 19.73
+        },
+        "sector": {
+          "kind": "bank",
+          "data": {
+            "total_income": 95200,
+            "interest_earned": 85000,
+            "interest_expended": 49300,
+            "net_interest_income": 35700,
+            "nim_pct": 3.5,
+            "gross_npa_pct": 1.22,
+            "net_npa_pct": 0.39,
+            "provisions_and_contingencies": 3570
+          }
+        }
+      },
+      {
+        "period_end": "2024-09-30",
+        "period_label": "Q2 FY25",
+        "fiscal_quarter": "Q2",
+        "basis": "consolidated",
+        "is_audited": false,
+        "is_restated": false,
+        "core": {
+          "revenue_equiv": 82500,
+          "operating_profit_equiv": 34650,
+          "margin_equiv_pct": 3.5,
+          "margin_kind": "nim",
+          "other_income": null,
+          "interest": null,
+          "depreciation": null,
+          "pbt": null,
+          "tax": null,
+          "net_profit": 14553,
+          "eps": 19.15
+        },
+        "sector": {
+          "kind": "bank",
+          "data": {
+            "total_income": 92400,
+            "interest_earned": 82500,
+            "interest_expended": 47850,
+            "net_interest_income": 34650,
+            "nim_pct": 3.5,
+            "gross_npa_pct": 1.25,
+            "net_npa_pct": 0.4,
+            "provisions_and_contingencies": 3465
+          }
+        }
+      },
+      {
+        "period_end": "2024-06-30",
+        "period_label": "Q1 FY25",
+        "fiscal_quarter": "Q1",
+        "basis": "consolidated",
+        "is_audited": false,
+        "is_restated": false,
+        "core": {
+          "revenue_equiv": 80000,
+          "operating_profit_equiv": 33600,
+          "margin_equiv_pct": 3.5,
+          "margin_kind": "nim",
+          "other_income": null,
+          "interest": null,
+          "depreciation": null,
+          "pbt": null,
+          "tax": null,
+          "net_profit": 14112,
+          "eps": 18.57
+        },
+        "sector": {
+          "kind": "bank",
+          "data": {
+            "total_income": 89600,
+            "interest_earned": 80000,
+            "interest_expended": 46400,
+            "net_interest_income": 33600,
+            "nim_pct": 3.5,
+            "gross_npa_pct": 1.28,
+            "net_npa_pct": 0.41,
+            "provisions_and_contingencies": 3360
+          }
+        }
+      },
+      {
+        "period_end": "2024-03-31",
+        "period_label": "Q4 FY24",
+        "fiscal_quarter": "Q4",
+        "basis": "consolidated",
+        "is_audited": true,
+        "is_restated": false,
+        "core": {
+          "revenue_equiv": 77500,
+          "operating_profit_equiv": 32550,
+          "margin_equiv_pct": 3.5,
+          "margin_kind": "nim",
+          "other_income": null,
+          "interest": null,
+          "depreciation": null,
+          "pbt": null,
+          "tax": null,
+          "net_profit": 13671,
+          "eps": 17.99
+        },
+        "sector": {
+          "kind": "bank",
+          "data": {
+            "total_income": 86800,
+            "interest_earned": 77500,
+            "interest_expended": 44950,
+            "net_interest_income": 32550,
+            "nim_pct": 3.5,
+            "gross_npa_pct": 1.31,
+            "net_npa_pct": 0.42,
+            "provisions_and_contingencies": 3255
+          }
+        }
+      },
+      {
+        "period_end": "2023-12-31",
+        "period_label": "Q3 FY24",
+        "fiscal_quarter": "Q3",
+        "basis": "consolidated",
+        "is_audited": false,
+        "is_restated": false,
+        "core": {
+          "revenue_equiv": 75000,
+          "operating_profit_equiv": 31500,
+          "margin_equiv_pct": 3.5,
+          "margin_kind": "nim",
+          "other_income": null,
+          "interest": null,
+          "depreciation": null,
+          "pbt": null,
+          "tax": null,
+          "net_profit": 13230,
+          "eps": 17.41
+        },
+        "sector": {
+          "kind": "bank",
+          "data": {
+            "total_income": 84000,
+            "interest_earned": 75000,
+            "interest_expended": 43500,
+            "net_interest_income": 31500,
+            "nim_pct": 3.5,
+            "gross_npa_pct": 1.34,
+            "net_npa_pct": 0.43,
+            "provisions_and_contingencies": 3150
+          }
+        }
+      },
+      {
+        "period_end": "2023-09-30",
+        "period_label": "Q2 FY24",
+        "fiscal_quarter": "Q2",
+        "basis": "consolidated",
+        "is_audited": false,
+        "is_restated": false,
+        "core": {
+          "revenue_equiv": 72500,
+          "operating_profit_equiv": 30450,
+          "margin_equiv_pct": 3.5,
+          "margin_kind": "nim",
+          "other_income": null,
+          "interest": null,
+          "depreciation": null,
+          "pbt": null,
+          "tax": null,
+          "net_profit": 12789,
+          "eps": 16.83
+        },
+        "sector": {
+          "kind": "bank",
+          "data": {
+            "total_income": 81200,
+            "interest_earned": 72500,
+            "interest_expended": 42050,
+            "net_interest_income": 30450,
+            "nim_pct": 3.5,
+            "gross_npa_pct": 1.37,
+            "net_npa_pct": 0.44,
+            "provisions_and_contingencies": 3045
+          }
+        }
+      },
+      {
+        "period_end": "2023-06-30",
+        "period_label": "Q1 FY24",
+        "fiscal_quarter": "Q1",
+        "basis": "consolidated",
+        "is_audited": false,
+        "is_restated": false,
+        "core": {
+          "revenue_equiv": 70000,
+          "operating_profit_equiv": 29400,
+          "margin_equiv_pct": 3.5,
+          "margin_kind": "nim",
+          "other_income": null,
+          "interest": null,
+          "depreciation": null,
+          "pbt": null,
+          "tax": null,
+          "net_profit": 12348,
+          "eps": 16.25
+        },
+        "sector": {
+          "kind": "bank",
+          "data": {
+            "total_income": 78400,
+            "interest_earned": 70000,
+            "interest_expended": 40600,
+            "net_interest_income": 29400,
+            "nim_pct": 3.5,
+            "gross_npa_pct": 1.4,
+            "net_npa_pct": 0.45,
+            "provisions_and_contingencies": 2940
+          }
+        }
+      }
+    ],
+    "annual": []
+  },
+  "next_results_date": "2026-07-19",
+  "market_cap_floor_ok": true,
+  "last_known_market_cap_cr": 1480000,
+  "provenance": {
+    "as_of": "2025-03-31",
+    "schema_version": 1,
+    "sources": [],
+    "ingest_run_id": "sample",
+    "taxonomy": "in-gaap-ind-as",
+    "fields_resolved_pct": 0
+  }
+}

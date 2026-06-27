@@ -1,0 +1,283 @@
+{
+  "doc_id": "RELIANCE-NSE",
+  "schema_version": 1,
+  "identity": {
+    "symbol": "RELIANCE",
+    "exchange": "NSE",
+    "isin": "INE002A01018",
+    "name": "Reliance Industries Ltd",
+    "sector": "Energy",
+    "industry": "Refineries & Marketing",
+    "sector_kind": "general",
+    "sector_classification": {
+      "kind": "general",
+      "method": "taxonomy",
+      "confidence": 1
+    },
+    "shares_outstanding": 6766000000,
+    "face_value": 10
+  },
+  "valuation": {
+    "ttm_eps": 105.4,
+    "ttm_eps_basic": null,
+    "ttm_eps_is_annual_derived": false,
+    "ttm_eps_basis": "consolidated",
+    "book_value_per_share": 1240
+  },
+  "results": {
+    "quarterly": [
+      {
+        "period_end": "2025-03-31",
+        "period_label": "Q4 FY25",
+        "fiscal_quarter": "Q4",
+        "basis": "consolidated",
+        "is_audited": true,
+        "is_restated": false,
+        "core": {
+          "revenue_equiv": 272000,
+          "operating_profit_equiv": 46240,
+          "margin_equiv_pct": 17,
+          "margin_kind": "opm",
+          "other_income": null,
+          "interest": null,
+          "depreciation": null,
+          "pbt": null,
+          "tax": null,
+          "net_profit": 19856,
+          "eps": 2.93
+        },
+        "sector": {
+          "kind": "general",
+          "data": {
+            "revenue_from_operations": 272000,
+            "total_expenses": 225760,
+            "operating_profit": 46240,
+            "opm_pct": 17
+          }
+        }
+      },
+      {
+        "period_end": "2024-12-31",
+        "period_label": "Q3 FY25",
+        "fiscal_quarter": "Q3",
+        "basis": "consolidated",
+        "is_audited": false,
+        "is_restated": false,
+        "core": {
+          "revenue_equiv": 266000,
+          "operating_profit_equiv": 45220,
+          "margin_equiv_pct": 17,
+          "margin_kind": "opm",
+          "other_income": null,
+          "interest": null,
+          "depreciation": null,
+          "pbt": null,
+          "tax": null,
+          "net_profit": 19418,
+          "eps": 2.87
+        },
+        "sector": {
+          "kind": "general",
+          "data": {
+            "revenue_from_operations": 266000,
+            "total_expenses": 220780,
+            "operating_profit": 45220,
+            "opm_pct": 17
+          }
+        }
+      },
+      {
+        "period_end": "2024-09-30",
+        "period_label": "Q2 FY25",
+        "fiscal_quarter": "Q2",
+        "basis": "consolidated",
+        "is_audited": false,
+        "is_restated": false,
+        "core": {
+          "revenue_equiv": 260000,
+          "operating_profit_equiv": 44200,
+          "margin_equiv_pct": 17,
+          "margin_kind": "opm",
+          "other_income": null,
+          "interest": null,
+          "depreciation": null,
+          "pbt": null,
+          "tax": null,
+          "net_profit": 18980,
+          "eps": 2.81
+        },
+        "sector": {
+          "kind": "general",
+          "data": {
+            "revenue_from_operations": 260000,
+            "total_expenses": 215800,
+            "operating_profit": 44200,
+            "opm_pct": 17
+          }
+        }
+      },
+      {
+        "period_end": "2024-06-30",
+        "period_label": "Q1 FY25",
+        "fiscal_quarter": "Q1",
+        "basis": "consolidated",
+        "is_audited": false,
+        "is_restated": false,
+        "core": {
+          "revenue_equiv": 254000,
+          "operating_profit_equiv": 43180,
+          "margin_equiv_pct": 17,
+          "margin_kind": "opm",
+          "other_income": null,
+          "interest": null,
+          "depreciation": null,
+          "pbt": null,
+          "tax": null,
+          "net_profit": 18542,
+          "eps": 2.74
+        },
+        "sector": {
+          "kind": "general",
+          "data": {
+            "revenue_from_operations": 254000,
+            "total_expenses": 210820,
+            "operating_profit": 43180,
+            "opm_pct": 17
+          }
+        }
+      },
+      {
+        "period_end": "2024-03-31",
+        "period_label": "Q4 FY24",
+        "fiscal_quarter": "Q4",
+        "basis": "consolidated",
+        "is_audited": true,
+        "is_restated": false,
+        "core": {
+          "revenue_equiv": 248000,
+          "operating_profit_equiv": 42160,
+          "margin_equiv_pct": 17,
+          "margin_kind": "opm",
+          "other_income": null,
+          "interest": null,
+          "depreciation": null,
+          "pbt": null,
+          "tax": null,
+          "net_profit": 18104,
+          "eps": 2.68
+        },
+        "sector": {
+          "kind": "general",
+          "data": {
+            "revenue_from_operations": 248000,
+            "total_expenses": 205840,
+            "operating_profit": 42160,
+            "opm_pct": 17
+          }
+        }
+      },
+      {
+        "period_end": "2023-12-31",
+        "period_label": "Q3 FY24",
+        "fiscal_quarter": "Q3",
+        "basis": "consolidated",
+        "is_audited": false,
+        "is_restated": false,
+        "core": {
+          "revenue_equiv": 242000,
+          "operating_profit_equiv": 41140,
+          "margin_equiv_pct": 17,
+          "margin_kind": "opm",
+          "other_income": null,
+          "interest": null,
+          "depreciation": null,
+          "pbt": null,
+          "tax": null,
+          "net_profit": 17666,
+          "eps": 2.61
+        },
+        "sector": {
+          "kind": "general",
+          "data": {
+            "revenue_from_operations": 242000,
+            "total_expenses": 200860,
+            "operating_profit": 41140,
+            "opm_pct": 17
+          }
+        }
+      },
+      {
+        "period_end": "2023-09-30",
+        "period_label": "Q2 FY24",
+        "fiscal_quarter": "Q2",
+        "basis": "consolidated",
+        "is_audited": false,
+        "is_restated": false,
+        "core": {
+          "revenue_equiv": 236000,
+          "operating_profit_equiv": 40120,
+          "margin_equiv_pct": 17,
+          "margin_kind": "opm",
+          "other_income": null,
+          "interest": null,
+          "depreciation": null,
+          "pbt": null,
+          "tax": null,
+          "net_profit": 17228,
+          "eps": 2.55
+        },
+        "sector": {
+          "kind": "general",
+          "data": {
+            "revenue_from_operations": 236000,
+            "total_expenses": 195880,
+            "operating_profit": 40120,
+            "opm_pct": 17
+          }
+        }
+      },
+      {
+        "period_end": "2023-06-30",
+        "period_label": "Q1 FY24",
+        "fiscal_quarter": "Q1",
+        "basis": "consolidated",
+        "is_audited": false,
+        "is_restated": false,
+        "core": {
+          "revenue_equiv": 230000,
+          "operating_profit_equiv": 39100,
+          "margin_equiv_pct": 17,
+          "margin_kind": "opm",
+          "other_income": null,
+          "interest": null,
+          "depreciation": null,
+          "pbt": null,
+          "tax": null,
+          "net_profit": 16790,
+          "eps": 2.48
+        },
+        "sector": {
+          "kind": "general",
+          "data": {
+            "revenue_from_operations": 230000,
+            "total_expenses": 190900,
+            "operating_profit": 39100,
+            "opm_pct": 17
+          }
+        }
+      }
+    ],
+    "annual": []
+  },
+  "next_results_date": "2026-07-18",
+  "market_cap_floor_ok": true,
+  "last_known_market_cap_cr": 1925000,
+  "provenance": {
+    "as_of": "2025-03-31",
+    "schema_version": 1,
+    "sources": [],
+    "ingest_run_id": "sample",
+    "taxonomy": "in-gaap-ind-as",
+    "fields_resolved_pct": 0
+  }
+}
