@@ -45,6 +45,26 @@ export function buildIndex(docs, generatedAt) {
   };
 }
 
+/**
+ * Whole-market earnings calendar: symbol -> next results date (ISO).
+ * Decoupled from the per-symbol docs so the desktop app can overlay an earnings
+ * date for ANY charted symbol (covered or not), independent of doc coverage.
+ *
+ * @param {Map<string,string>|Record<string,string>} dates
+ * @param {string} generatedAt
+ */
+export function buildEarningsCalendar(dates, generatedAt) {
+  const entries = dates instanceof Map ? [...dates.entries()] : Object.entries(dates);
+  // Sorted keys → stable bytes when the data is unchanged.
+  const sorted = Object.fromEntries(entries.sort((a, b) => a[0].localeCompare(b[0])));
+  return {
+    schemaVersion: SCHEMA_VERSION,
+    generatedAt,
+    count: Object.keys(sorted).length,
+    dates: sorted,
+  };
+}
+
 export function buildBelowFloor(belowFloor, generatedAt) {
   return {
     schemaVersion: SCHEMA_VERSION,

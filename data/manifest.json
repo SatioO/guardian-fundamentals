@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-27T00:00:00.000Z",
+  "generatedAt": "2026-06-28T08:07:18.193Z",
   "universe": {
     "indexPath": "data/universe/index.json",
     "belowFloorPath": "data/universe/below-floor.json",
-    "indexSha256": "4844737dac82fb7ed566b4a6ba994fb128048134e5a3f66adc5b5e7effba7cc0",
+    "indexSha256": "75d3a0e6d9b18bd0c29929d5e8e5db765d1e522cb60ebc322af0d72b37c4bc10",
     "belowFloorSha256": "0083f7ea446c614157b578ec256466daef8b0642ca8808743e6d7143ee7df3a8"
   },
   "docs": {
-    "RELIANCE": "a0853c682484740eb5fca3f7dbc2699d452764ecbf4fb3e2da444b3969fecf12",
-    "HDFCBANK": "9aa4e9f592d93bc420c89efb1d5dae01aa71fbc829456f48e48284d4ad0387f1"
+    "HDFCBANK": "7ddb95b225442426e1b7fe69eea614284bfbc06284161046687a83a9078dbcfa",
+    "RELIANCE": "a0853c682484740eb5fca3f7dbc2699d452764ecbf4fb3e2da444b3969fecf12"
   }
 }

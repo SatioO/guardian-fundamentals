@@ -4,7 +4,19 @@ import { mkdtemp, readFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { fundamentalsDoc, period, sectorLines, validateDoc } from '../src/schema.js';
-import { writeArtifact, buildIndex, sha256, docPath } from '../src/artifact.js';
+import { writeArtifact, buildIndex, buildEarningsCalendar, sha256, docPath } from '../src/artifact.js';
+
+test('buildEarningsCalendar emits a sorted symbol→date map', () => {
+  const cal = buildEarningsCalendar(
+    new Map([['ZEEL', '2026-08-01'], ['ABB', '2026-07-20']]),
+    '2026-06-28T00:00:00.000Z',
+  );
+  assert.equal(cal.count, 2);
+  assert.deepEqual(Object.keys(cal.dates), ['ABB', 'ZEEL']); // sorted
+  assert.equal(cal.dates.ABB, '2026-07-20');
+  const cal2 = buildEarningsCalendar({ ZEEL: '2026-08-01', ABB: '2026-07-20' }, 'x');
+  assert.deepEqual(Object.keys(cal2.dates), ['ABB', 'ZEEL']);
+});
 
 function sampleDoc(symbol, sector_kind) {
   return fundamentalsDoc({
