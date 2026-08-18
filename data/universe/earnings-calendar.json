@@ -1,18 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T07:33:48.186Z",
-  "count": 11,
+  "generatedAt": "2026-08-18T07:21:04.078Z",
+  "count": 9,
   "dates": {
     "ANNAPURNA": "2026-08-18",
-    "ANTGRAPHIC": "2026-08-17",
     "BAGFILMS": "2026-08-18",
     "FLEXITUFF": "2026-08-21",
-    "INDOMIM": "2026-08-17",
     "LCL": "2026-08-19",
     "MANIPALHOS": "2026-08-20",
-    "SRPL": "2026-08-17",
     "STCINDIA": "2026-08-25",
     "SUPREMEENG": "2026-08-20",
+    "TVVISION": "2026-08-18",
     "XTRANET": "2026-08-19"
   }
 }
