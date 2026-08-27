@@ -1,15 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T07:27:10.777Z",
-  "count": 8,
+  "generatedAt": "2026-08-27T17:51:41.454Z",
+  "count": 7,
   "dates": {
-    "JNPR": "2026-08-26",
     "LEAPIND": "2026-08-31",
     "MILKYMIST": "2026-08-31",
+    "NAGAFERT": "2026-08-30",
     "SETCO": "2026-08-29",
-    "SIMBHALS": "2026-08-26",
     "SUPREMEENG": "2026-08-29",
     "TECHNOCRAF": "2026-09-02",
-    "VIKASECO": "2026-08-26"
+    "WINSOME": "2026-08-29"
   }
 }
