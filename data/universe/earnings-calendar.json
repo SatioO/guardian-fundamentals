@@ -1,14 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-27T17:51:41.454Z",
-  "count": 7,
+  "generatedAt": "2026-08-31T14:19:30.933Z",
+  "count": 6,
   "dates": {
+    "DHOOTTRANS": "2026-09-04",
     "LEAPIND": "2026-08-31",
     "MILKYMIST": "2026-08-31",
-    "NAGAFERT": "2026-08-30",
-    "SETCO": "2026-08-29",
-    "SUPREMEENG": "2026-08-29",
-    "TECHNOCRAF": "2026-09-02",
-    "WINSOME": "2026-08-29"
+    "SETCO": "2026-08-31",
+    "SUPREMEENG": "2026-08-31",
+    "TECHNOCRAF": "2026-09-02"
   }
 }
