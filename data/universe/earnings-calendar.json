@@ -1,13 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T14:19:30.933Z",
-  "count": 6,
+  "generatedAt": "2026-09-01T11:56:28.033Z",
+  "count": 5,
   "dates": {
+    "BLEL": "2026-09-07",
     "DHOOTTRANS": "2026-09-04",
-    "LEAPIND": "2026-08-31",
-    "MILKYMIST": "2026-08-31",
-    "SETCO": "2026-08-31",
-    "SUPREMEENG": "2026-08-31",
-    "TECHNOCRAF": "2026-09-02"
+    "SUPREMEENG": "2026-09-01",
+    "TECHNOCRAF": "2026-09-02",
+    "ULTRACEMCO": "2026-10-19"
   }
 }
