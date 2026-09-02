@@ -1,11 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T11:56:28.033Z",
-  "count": 5,
+  "generatedAt": "2026-09-02T11:37:49.774Z",
+  "count": 7,
   "dates": {
     "BLEL": "2026-09-07",
     "DHOOTTRANS": "2026-09-04",
-    "SUPREMEENG": "2026-09-01",
+    "INDIACEM": "2026-10-17",
+    "MOLBIO": "2026-09-05",
+    "SHIPROCKET": "2026-09-07",
     "TECHNOCRAF": "2026-09-02",
     "ULTRACEMCO": "2026-10-19"
   }
