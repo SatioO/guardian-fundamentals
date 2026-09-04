@@ -1,12 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T11:36:03.733Z",
-  "count": 7,
+  "generatedAt": "2026-09-04T11:38:04.881Z",
+  "count": 9,
   "dates": {
     "BLEL": "2026-09-07",
     "DHOOTTRANS": "2026-09-04",
+    "GAJA": "2026-09-10",
     "INDIACEM": "2026-10-17",
     "KOTYARK": "2026-09-07",
+    "LALITHAA": "2026-09-11",
     "MOLBIO": "2026-09-05",
     "SHIPROCKET": "2026-09-07",
     "ULTRACEMCO": "2026-10-19"
