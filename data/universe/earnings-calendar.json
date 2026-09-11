@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T11:42:47.644Z",
+  "generatedAt": "2026-09-11T11:43:19.418Z",
   "count": 12,
   "dates": {
+    "ABB": "2026-11-13",
     "CMICABLES": "2026-09-11",
     "COFORGE": "2026-10-23",
-    "GAJA": "2026-09-10",
     "HORIZONIND": "2026-09-11",
     "INDIACEM": "2026-10-17",
     "LALITHAA": "2026-09-11",
-    "SHANKESH": "2026-09-10",
     "SKYWAYS": "2026-09-17",
     "SUNSHINE": "2026-09-15",
     "SUPREMEENG": "2026-09-16",
+    "SYMBIOTEC": "2026-09-21",
     "TEMPSENS": "2026-09-16",
     "ULTRACEMCO": "2026-10-19"
   }
