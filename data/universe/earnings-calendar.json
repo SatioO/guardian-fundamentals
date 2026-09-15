@@ -1,13 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T13:14:18.712Z",
-  "count": 11,
+  "generatedAt": "2026-09-15T12:00:53.993Z",
+  "count": 12,
   "dates": {
     "ABB": "2026-11-13",
-    "CMICABLES": "2026-09-14",
+    "CMICABLES": "2026-09-15",
     "COFORGE": "2026-10-23",
     "HTEL": "2026-09-18",
     "INDIACEM": "2026-10-17",
+    "ORISSAMINE": "2026-09-17",
     "SKYWAYS": "2026-09-17",
     "SUNSHINE": "2026-09-15",
     "SUPREMEENG": "2026-09-16",
